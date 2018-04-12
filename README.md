@@ -1,1 +1,1 @@
-# cogitos
+# cogitos programming exercise
